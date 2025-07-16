@@ -1,7 +1,7 @@
 
 # Predicting Used Car Prices 
 
-In this project, we will use a secondhand car prediction dataset from Kaggle to predict the price of a car based on its specifications by implementing a **linear/polynomial regression model from scratch.**
+In this project, we will use a secondhand [car prediction dataset from Kaggle](https://www.kaggle.com/datasets/sujithmandala/second-hand-car-price-prediction) to predict the price of a car based on its specifications by implementing a **linear/polynomial regression model from scratch.**
 
 **Components:**
 
